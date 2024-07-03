@@ -1,2 +1,2 @@
 # git-demo
-My fisrt github repo
+My first github repo
